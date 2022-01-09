@@ -20,7 +20,7 @@ Total number of Non-Vine Reviews:
 
 Total number of Vine 5 Star Reviews:
 
-![Total_5Starts_Reviews](Images/Total_5Starts_Reviews.png.png)
+![Total_5Starts_Reviews](Images/Total_5Starts_Reviews.png)
 
 Total number of Non-Vine 5 Star Reviews:
 
@@ -31,7 +31,7 @@ Total number of Non-Vine 5 Star Reviews:
 
 Percentage of Vine 5 Star Reviews:
 
-![5Starts_Paid_Percentage](Images/5Starts_Paid_Percentages.png)
+![5Starts_Paid_Percentage](Images/5Starts_Paid_Percentage.png)
 
 
 Total number of Non-Vine 5 Star Reviews:
