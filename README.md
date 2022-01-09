@@ -9,7 +9,12 @@ The purpose of this analysis is to determine if there is any bias toward favorab
 
 Total number of Vine Reviews:
 
+![Total_Vine__Paid_Reviews](Images/Total_Vine__Paid_Reviews.png)
+
 Total number of Non-Vine Reviews:
+
+![Total_Vine__Unpaid_Reviews](Images/Total_Vine__Unpaid_Reviews.png)
+
 
 ### How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
 
