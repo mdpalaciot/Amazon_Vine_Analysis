@@ -40,5 +40,5 @@ Total number of Non-Vine 5 Star Reviews:
 
 
 ## Summary:
-There does not appear to be a bias for the Vine program as evidenced by the 5-star percentage between paid (42%) and unpaid (53%), with percentage very similar. In addition, the total count of reviews is 61,948. Of these reviews, 99.5% of them are from non-Vine reviewers. This ovewhelming majority of non-paid reviewers removes any hint of bias towards the overall assessment.
+There does not appear to be a bias for the Vine program as evidenced by the 5-star percentage between paid (42%) and unpaid (53%), with percentage very similar. In addition, the total count of reviews is 61,948. Of these reviews, 99.5% (61,614) of them are from non-Vine reviewers. This ovewhelming majority of non-paid reviewers removes any hint of bias towards the overall assessment.
 In conclusion, the analysis the vine program does not show any bias.
